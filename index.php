@@ -12,6 +12,16 @@ function getMyName() {
 
 echo ('Git' + getMyName());
 
+?>
+
+<html>
+
+
+
+
+</html>
+
+
 
 
 
