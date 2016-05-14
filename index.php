@@ -10,7 +10,7 @@ function getMyName() {
     }
 }
 
-echo getMyName();
+echo ('Git' + getMyName());
 
 
 
